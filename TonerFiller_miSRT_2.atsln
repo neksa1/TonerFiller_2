@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "TonerFiller_miSRT_2", "TonerFiller\TonerFiller_miSRT_2.cproj", "{5E956443-4B36-4D3D-8906-196194A711CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E956443-4B36-4D3D-8906-196194A711CD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{5E956443-4B36-4D3D-8906-196194A711CD}.Debug|AVR.Build.0 = Debug|AVR
+		{5E956443-4B36-4D3D-8906-196194A711CD}.Release|AVR.ActiveCfg = Release|AVR
+		{5E956443-4B36-4D3D-8906-196194A711CD}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
